@@ -5,7 +5,7 @@
 - I'm currently working on
   - Making a Windows tweaking tool that fully tweaks the system using safe tweaks 🏃🪟
   - Making a macOS cleanup/speedup tool that fully tweaks the system using bash 🏃🍎
-  - Rewriting SpigotX for highly optimized performance and custom knockback ⚔️
+  - A Minecraft Server that will have Duels, KitPvP, Bedwars, and more ⚔️
   - Learning Java and C to further push my skills and expertise 🧠
 
 - Interests
