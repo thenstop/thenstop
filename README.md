@@ -15,4 +15,4 @@
 
 - Get in contact
   - Discord: @thenstop
-  - E-Mail: contactme@thenstop.xyz
+  - E-Mail: contactme@thenstop.com
