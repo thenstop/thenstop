@@ -14,5 +14,4 @@
   - System administration 🖥️
 
 - Get in contact
-  - Discord: @thenstop
-  - E-Mail: contactme@thenstop.com
+  - E-Mail: contact@thenstop.com
