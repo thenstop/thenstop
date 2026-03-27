@@ -1,6 +1,6 @@
 <div align="center">
 
-# Levi Chavez
+# Levi Chávez
 ### `AKA thenstop`
 
 [![](https://img.shields.io/badge/Focus-Systems%20%26%20Software-blueviolet?style=for-the-badge&logo=linux&logoColor=white)]()
@@ -80,7 +80,6 @@ Hi! I'm **Levi**, an undergrad at **Stark State College** passionate about **sys
 
 <div align="center">
 
-![thenstop's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thenstop&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thenstop&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
