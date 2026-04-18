@@ -1,24 +1,22 @@
 <div align="center">
 
 # Levi Chávez
-### `AKA thenstop`
-
-[![](https://img.shields.io/badge/Focus-Systems%20%26%20Software-blueviolet?style=for-the-badge&logo=linux&logoColor=white)]()
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## whoami
 
-Hi! I'm **Levi**, an undergrad at **Stark State College** passionate about **system administration** and **software development**. I enjoy managing infrastructure as much as I enjoy writing code that runs on it.
+Hi! I'm Levi! I'm an undergrad at Stark State College, and I'm passionate about system administration and information technology.
 
-- 🖥️ Interested in ***NIX**, **web development**, **containerization**, and **frontend development**
-- 🔭 Always exploring and learning about new tools and technologies
+- I'm interested in *NIX, web development, containerization, and self-hosting.
+- I'm always exploring and learning about new tools and technologies,
+  - Especially self hosting, feel free to contact me with the socials below if you have something interesting!
 
 ---
 
-## 🖥️ Server & Infrastructure
+## Server & Infrastructure Experience
 
 <div align="center">
 
@@ -43,7 +41,6 @@ Hi! I'm **Levi**, an undergrad at **Stark State College** passionate about **sys
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)]()
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)]()
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
 [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
@@ -77,9 +74,3 @@ Hi! I'm **Levi**, an undergrad at **Stark State College** passionate about **sys
 </div>
 
 ---
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thenstop&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
