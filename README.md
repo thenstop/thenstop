@@ -35,7 +35,7 @@ Hi! I'm Levi! I'm an undergrad at Stark State College, and I'm passionate about 
 
 ---
 
-## 💻 Programming Languages
+## Programming Experience
 
 <div align="center">
 
@@ -49,7 +49,7 @@ Hi! I'm Levi! I'm an undergrad at Stark State College, and I'm passionate about 
 
 ---
 
-## 🛠️ Tools & Software
+## Tools I've used
 
 <div align="center">
 
@@ -57,14 +57,12 @@ Hi! I'm Levi! I'm an undergrad at Stark State College, and I'm passionate about 
 [![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)]()
 [![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)]()
 [![JetBrains](https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white)]()
-[![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)]()
-[![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)]()
 
 </div>
 
 ---
 
-## 📬 Contact & Socials
+## Contact me!
 
 <div align="center">
 
